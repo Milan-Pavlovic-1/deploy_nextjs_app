@@ -19,7 +19,7 @@ export default function Home() {
         />
       </div>
       <h2 className={inter.className}>
-           Milan Pavlovic, Welcome to 5minslearn!
+           Milan Pavlovic, Welcome to 5minslearn, how is it going guys!
           </h2>
 
       <div className={styles.center}>
@@ -34,7 +34,8 @@ export default function Home() {
           <h2 className={inter.className}>
             5minslearn <span>-&gt;</span>
           </h2>
-          <p className={inter.className}>Learn tech in 5mins</p>
+          <p className={inter.className}>This pipeline was not that easy, it required a bit of googling and a few tries hehe
+          Luckily in the end we got! (Hopefully)</p>
         </a>
 
         
